@@ -38,7 +38,7 @@ Lembre-se para um programa ser executado, o computador deve estar ligado. É um 
 
 `Link`
 
-* [Computador](/Computador/)
+* [Computador](/Computador-Programado/)
 
 ## `Animal`
 
