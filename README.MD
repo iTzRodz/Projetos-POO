@@ -18,6 +18,10 @@ Lembrando sempre das regras para saque, só é possível sacar um valor quando e
 
 Aprendendo sobre encapsulamento e colocando em pratica
 
+`Link`
+
+* [Conta Bancaria](/Conta-Bancaria/)
+
 ## `Trabalho Computador em PHP`
 
 Criar uma classe computador com o que vimos até hoje em sala, sua classe deve conter dados sobre as configurações do seu computador (**processador, clock, memória, armazenamento**), pode usar a imaginação. Você deve ter ações programadas, por exemplo liga e desliga, executa um programa, fecha um programa.
@@ -32,6 +36,10 @@ Lembre-se para um programa ser executado, o computador deve estar ligado. É um 
 * método construtor
 * variáveis da classe (aquelas que acessamos com $this->...)
 
+`Link`
+
+* [Computador](/Computador/)
+
 ## `Animal`
 
 A partir dos conhecimentos vistos nas aulas e do último exemplo de código visto (em anexo), implemente o método construtor para as classes Mamifero e Ave. Para construir vai precisar usar os conceitos de sobrescrita e sobrecarga. Dica, vai precisar o comando "parent" que vimos em sala.
@@ -40,10 +48,10 @@ No construtor da classe Mamífero, você deve informar um parâmetro a mais, o "
 
 No construtor da classe  Ave, você deve ter um parâmetro boolean que informa se a ave é capaz de voar ou não. Assim quando instanciar um novo objeto das classes Mamifero e Ave, você irá precisar passar esse parâmetros.
 
-* Resumo
+* `Resumo`
 
 Nessa aula vimos herança, sobrescrita e sobrecarga.
 
-1. [Conta Bancaria](/Conta-Bancaria/)
-2. [Computador](/Computador/)
-3. [Animal](/Heranca/)
+`Link`
+
+* [Animal](/Heranca/)
