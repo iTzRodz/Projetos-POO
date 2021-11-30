@@ -1,0 +1,31 @@
+*{
+    text-align: center;
+    margin: 0;
+}
+
+.calc{
+    margin-top: 10%;
+    width: 100%;
+    position: absolute;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+.n2{
+    margin-top: 0%;
+    margin-left: 24%;
+}
+
+.operacao{
+    text-align: center;
+    margin-left: 1%;
+    height: 25px;
+}
+
+.btnCalc{
+    width: 10%;
+    height: 25px;
+    margin-left: 30px;
+}
