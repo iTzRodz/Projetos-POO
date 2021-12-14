@@ -55,3 +55,15 @@ Nessa aula vimos herança, sobrescrita e sobrecarga.
 `Link`
 
 * [Animal](/Heranca/)
+
+## `Funcionario`
+
+Criar classes funcionário, gerente, vendedor e entregador.
+
+* `Resumo`
+
+Aprendendo sobre herança
+
+`Link`
+
+* [Funcionario](/Funcionario/)
